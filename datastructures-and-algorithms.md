@@ -12,7 +12,7 @@ Datastructures is way to organize data in a way that enables it to be processed 
 6. Hashing
 7. Graph.etc
 
-Two types are datastructures
+Datastructures are two types
 
 1. Primitive datastructure (Integer, Float, Boolean and Character)
 2. Non primitive datastructure

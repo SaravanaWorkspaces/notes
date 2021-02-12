@@ -1,4 +1,6 @@
-# JS - Intro
+# Javascript
+
+#### Introduction
 
 - Programming language for browsers
 - High level, dynamic programming language with First class function (When a function treated like any other variable)
