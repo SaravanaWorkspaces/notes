@@ -24,7 +24,7 @@
   Activity class has different callbacks to be invoked to denote the state change of an activity
 
     - onCreate 
-      - Activity enters into created state, Called only once after activity got created
+      - Activity enters into created state, Called only once in complete life cycle
       - onCreate(savedInstanceState: Bundle?) 
 
     - onStart
